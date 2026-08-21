@@ -1,0 +1,10 @@
+# Do not edit manually
+# Default behavior   
+dist/* linguist-vendored
+src/*.ts linguist-detectable
+
+src/**/*.tsx linguist-detectable
+
+*.min.js linguist-generated
+docs/** linguist-vendored
+docs/*.html linguist-vendored
